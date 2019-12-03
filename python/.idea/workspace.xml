@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae18434d-8b9d-47e3-bd6f-41240e43eb03" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DB-project$initialer.coverage" NAME="initialer Coverage Results" MODIFIED="1517281830075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DB-project$main.coverage" NAME="main Coverage Results" MODIFIED="1517290531383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DB-project$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1517061681026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="project@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$GroupNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1517291222846" expanded="true" signature="1282:1328" ph="SELECT id, n... COMPANY" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.public.group_table" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/30e57063/5038c9d6-3c6b-4011-ad38-adbae0a64a04/project.public.group_table">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.public.user_table" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/30e57063/5038c9d6-3c6b-4011-ad38-adbae0a64a04/project.public.user_table">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1517278776847" expanded="true" signature="2075:2105" ph="INSERT INTO USERTABLE... " />
+                <marker date="1517278776847" expanded="true" signature="2075:2108" ph="INSERT INTO user_table... " />
+                <marker date="1517278776847" expanded="true" signature="2075:2122" ph="INSERT INTO USERTABLE... " />
+                <marker date="1517278776847" expanded="true" signature="2447:2532" ph="INSERT INTO user_table... " />
+                <marker date="1517278776847" expanded="true" signature="2975:3029" ph="UPDATE user_... " />
+                <marker date="1517278776847" expanded="true" signature="3117:3166" ph="UPDATE user_... " />
+                <marker date="1517278776847" expanded="true" signature="3262:3316" ph="UPDATE user_... " />
+                <marker date="1517278776847" expanded="true" signature="3681:3735" ph="UPDATE user_... " />
+                <marker date="1517278776847" expanded="true" signature="3949:3993" ph="SELECT * FRO... user_table" />
+                <marker date="1517278776847" expanded="true" signature="3962:3974" ph="INSERT INTO contacts_table... " />
+                <marker date="1517278776847" expanded="true" signature="4164:4210" ph="INSERT INTO contacts_table... " />
+                <marker date="1517278776847" expanded="true" signature="4450:4494" ph="SELECT * FRO... user_table" />
+                <marker date="1517278776847" expanded="true" signature="4665:4715" ph="INSERT INTO blocked_contacts_table... " />
+                <marker date="1517278776847" expanded="true" signature="5099:5159" ph="SELECT MAX(m... message_table" />
+                <marker date="1517278776847" expanded="true" signature="5099:5168" ph="SELECT MAX(m... message_table" />
+                <marker date="1517278776847" expanded="true" signature="5467:5514" ph="SELECT * FRO... media_table" />
+                <marker date="1517278776847" expanded="true" signature="5608:5667" ph="INSERT INTO media_table... " />
+                <marker date="1517278776847" expanded="true" signature="5824:5934" ph="INSERT INTO message_table... " />
+                <marker date="1517278776847" expanded="true" signature="6036:6164" ph="INSERT INTO chat_table... " />
+                <marker date="1517278776847" expanded="true" signature="6499:6572" ph="SELECT * FRO... message_table" />
+                <marker date="1517278776847" expanded="true" signature="6785:6913" ph="INSERT INTO chat_table... " />
+                <marker date="1517278776847" expanded="true" signature="7241:7285" ph="INSERT INTO membership_table... " />
+                <marker date="1517278776847" expanded="true" signature="7381:7480" ph="SELECT * FRO... membership_table" />
+                <marker date="1517278776847" expanded="true" signature="7599:7650" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="7599:7666" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="8052:8095" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="8193:8276" ph="SELECT * FRO... subscribe_table" />
+                <marker date="1517278776847" expanded="true" signature="8397:8465" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="8778:8822" ph="SELECT * FRO... user_table" />
+                <marker date="1517278776847" expanded="true" signature="8993:9065" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="9309:9353" ph="SELECT * FRO... user_table" />
+                <marker date="1517278776847" expanded="true" signature="9524:9604" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="9927:10072" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="9927:10113" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="9927:10132" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="9927:10156" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="10455:10499" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="10466:10499" ph="INSERT INTO membership_table... " />
+                <marker date="1517278776847" expanded="true" signature="10595:10694" ph="SELECT * FRO... membership_table" />
+                <marker date="1517278776847" expanded="true" signature="10813:10880" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="10819:10880" ph="INSERT INTO membership_table... " />
+                <marker date="1517278776847" expanded="true" signature="11265:11308" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="11271:11308" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="11406:11489" ph="SELECT * FRO... subscribe_table" />
+                <marker date="1517278776847" expanded="true" signature="11610:11678" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="11621:11678" ph="INSERT INTO subscribe_table... " />
+                <marker date="1517278776847" expanded="true" signature="11986:12033" ph="SELECT * FRO... media_table" />
+                <marker date="1517278776847" expanded="true" signature="12109:12167" ph="INSERT INTO media_table... " />
+                <marker date="1517278776847" expanded="true" signature="12257:12305" ph="INSERT INTO image_table... " />
+                <marker date="1517278776847" expanded="true" signature="12412:12484" ph="INSERT INTO user_profile_table... " />
+                <marker date="1517278776847" expanded="true" signature="12790:12873" ph="DELETE FROM " />
+                <marker date="1517278776847" expanded="true" signature="13150:13201" ph="SELECT * FRO... user_profile_view" />
+                <marker date="1517278776847" expanded="true" signature="13462:13514" ph="SELECT * FRO... user_profile_table" />
+                <marker date="1517278776847" expanded="true" signature="13831:13910" ph="SELECT conta... contacts_table" />
+                <marker date="1517278776847" expanded="true" signature="14295:14368" ph="SELECT conta... blocked_contacts_table" />
+                <marker date="1517278776847" expanded="true" signature="14792:14869" ph="SELECT * FRO... chat_view" />
+                <marker date="1517278776847" expanded="true" signature="14999:15076" ph="SELECT * FRO... chat_view" />
+                <marker date="1517278776847" expanded="true" signature="15526:15595" ph="SELECT recei... chat_table" />
+                <marker date="1517278776847" expanded="true" signature="15698:15767" ph="SELECT sende... chat_table" />
+                <marker date="1517278776847" expanded="true" signature="16075:16104" ph="SELECT * FRO... group_list_view" />
+                <marker date="1517278776847" expanded="true" signature="16075:16124" ph="SELECT * FRO... group_list_view" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groups.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/groups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="327" column="0" lean-forward="false" selection-start-line="327" selection-start-column="0" selection-end-line="353" selection-end-column="15" />
+              <folding>
+                <marker date="1517283533862" expanded="true" signature="1779:1829" ph="INSERT INTO group_table... " />
+                <marker date="1517283533862" expanded="true" signature="1779:1845" ph="INSERT INTO group_table... " />
+                <marker date="1517283533862" expanded="true" signature="2081:2129" ph="UPDATE group... " />
+                <marker date="1517283533862" expanded="true" signature="2285:2334" ph="SELECT creat... group_creator_view" />
+                <marker date="1517283533862" expanded="true" signature="2285:2381" ph="SELECT creat... group_creator_view" />
+                <marker date="1517283533862" expanded="true" signature="2485:2508" ph="DELETE FROM " />
+                <marker date="1517283533862" expanded="true" signature="2485:2528" ph="DELETE FROM " />
+                <marker date="1517283533862" expanded="true" signature="2935:3034" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="3178:3277" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="3421:3481" ph="INSERT INTO group_blocked_users_table... " />
+                <marker date="1517283533862" expanded="true" signature="3421:3497" ph="INSERT INTO membership_table... " />
+                <marker date="1517283533862" expanded="true" signature="4137:4236" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="4380:4455" ph="DELETE FROM " />
+                <marker date="1517283533862" expanded="true" signature="5055:5104" ph="SELECT creat... group_creator_view" />
+                <marker date="1517283533862" expanded="true" signature="5055:5150" ph="SELECT creat... group_creator_view" />
+                <marker date="1517283533862" expanded="true" signature="5288:5354" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="5525:5602" ph="DELETE FROM " />
+                <marker date="1517283533862" expanded="true" signature="6244:6339" ph="SELECT creat... group_creator_view" />
+                <marker date="1517283533862" expanded="true" signature="6477:6576" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="6753:6831" ph="UPDATE membe... " />
+                <marker date="1517283533862" expanded="true" signature="7350:7449" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="7559:7606" ph="SELECT * FRO... media_table" />
+                <marker date="1517283533862" expanded="true" signature="7707:7765" ph="INSERT INTO media_table... " />
+                <marker date="1517283533862" expanded="true" signature="7891:7939" ph="INSERT INTO image_table... " />
+                <marker date="1517283533862" expanded="true" signature="8050:8121" ph="INSERT INTO group_profile_table... " />
+                <marker date="1517283533862" expanded="true" signature="8505:8604" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="8714:8761" ph="SELECT * FRO... media_table" />
+                <marker date="1517283533862" expanded="true" signature="8943:9013" ph="DELETE FROM " />
+                <marker date="1517283533862" expanded="true" signature="8954:9013" ph="INSERT INTO group_profile_table... " />
+                <marker date="1517283533862" expanded="true" signature="9459:9525" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="9738:9807" ph="SELECT MAX(m... message_table" />
+                <marker date="1517283533862" expanded="true" signature="10106:10153" ph="SELECT * FRO... media_table" />
+                <marker date="1517283533862" expanded="true" signature="10247:10306" ph="INSERT INTO media_table... " />
+                <marker date="1517283533862" expanded="true" signature="10463:10573" ph="INSERT INTO message_table... " />
+                <marker date="1517283533862" expanded="true" signature="10675:10687" ph="INSERT INTO project.... " />
+                <marker date="1517283533862" expanded="true" signature="10675:10782" ph="INSERT INTO grr... " />
+                <marker date="1517283533862" expanded="true" signature="11121:11187" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="11370:11443" ph="SELECT * FRO... message_table" />
+                <marker date="1517283533862" expanded="true" signature="11656:11763" ph="INSERT INTO group_sends_table... " />
+                <marker date="1517283533862" expanded="true" signature="12331:12397" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="12580:12693" ph="INSERT INTO group_seen_table... " />
+                <marker date="1517283533862" expanded="true" signature="12580:12725" ph="INSERT INTO group_seen_table... " />
+                <marker date="1517283533862" expanded="true" signature="13008:13074" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="13255:13287" ph="SELECT * FRO... group_profile_view" />
+                <marker date="1517283533862" expanded="true" signature="13255:13307" ph="SELECT * FRO... group_profile_view" />
+                <marker date="1517283533862" expanded="true" signature="13655:13721" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="13902:13954" ph="SELECT * FRO... group_members_view" />
+                <marker date="1517283533862" expanded="true" signature="14309:14375" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="14556:14608" ph="SELECT * FRO... group_blocked_view" />
+                <marker date="1517283533862" expanded="true" signature="14961:15027" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="15208:15240" ph="SELECT * FRO... group_members_view" />
+                <marker date="1517283533862" expanded="true" signature="15208:15280" ph="SELECT * FRO... group_blocked_view" />
+                <marker date="1517283533862" expanded="true" signature="15631:15697" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="15878:15931" ph="SELECT * FRO... group_messages_view" />
+                <marker date="1517283533862" expanded="true" signature="16673:16739" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="16920:16968" ph="SELECT * FRO... group_pin_view" />
+                <marker date="1517283533862" expanded="true" signature="17317:17383" ph="SELECT * FRO... membership_table" />
+                <marker date="1517283533862" expanded="true" signature="17564:17616" ph="SELECT * FRO... group_creator_view" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="channels.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/channels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8745">
+              <caret line="265" column="15" lean-forward="false" selection-start-line="265" selection-start-column="15" selection-end-line="265" selection-end-column="15" />
+              <folding>
+                <marker date="1517284646802" expanded="true" signature="1772:1836" ph="INSERT INTO channel_table... " />
+                <marker date="1517284646802" expanded="true" signature="1772:1856" ph="INSERT INTO channel_table... " />
+                <marker date="1517284646802" expanded="true" signature="2188:2262" ph="SELECT * FRO... channel_creator_view" />
+                <marker date="1517284646802" expanded="true" signature="2440:2465" ph="DELETE FROM " />
+                <marker date="1517284646802" expanded="true" signature="2440:2487" ph="SELECT * FRO... channel_subscribes_view" />
+                <marker date="1517284646802" expanded="true" signature="2729:2827" ph="SELECT tel_n... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="3003:3067" ph="INSERT INTO channel_blocked_users_table... " />
+                <marker date="1517284646802" expanded="true" signature="3003:3083" ph="SELECT * FRO... channel_subscribes_view" />
+                <marker date="1517284646802" expanded="true" signature="3336:3434" ph="SELECT tel_n... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="3610:3649" ph="DELETE FROM " />
+                <marker date="1517284646802" expanded="true" signature="3610:3691" ph="INSERT INTO channel_blocked_users_table... " />
+                <marker date="1517284646802" expanded="true" signature="4499:4584" ph="SELECT * FRO... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="4792:4861" ph="SELECT MAX(m... message_table" />
+                <marker date="1517284646802" expanded="true" signature="5160:5207" ph="SELECT * FRO... media_table" />
+                <marker date="1517284646802" expanded="true" signature="5301:5360" ph="INSERT INTO media_table... " />
+                <marker date="1517284646802" expanded="true" signature="5517:5627" ph="INSERT INTO message_table... " />
+                <marker date="1517284646802" expanded="true" signature="5729:5840" ph="INSERT INTO channel_sends_table... " />
+                <marker date="1517284646802" expanded="true" signature="6185:6199" ph="SELECT * FRO... membership_table" />
+                <marker date="1517284646802" expanded="true" signature="6185:6270" ph="SELECT * FRO... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="6455:6528" ph="SELECT * FRO... message_table" />
+                <marker date="1517284646802" expanded="true" signature="6741:6852" ph="INSERT INTO channel_sends_table... " />
+                <marker date="1517284646802" expanded="true" signature="7510:7566" ph="SELECT * FRO... channel_profile_view" />
+                <marker date="1517284646802" expanded="true" signature="7917:7997" ph="SELECT * FRO... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="7917:8015" ph="SELECT tel_n... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="8191:8250" ph="SELECT * FRO... channel_subscribes_view" />
+                <marker date="1517284646802" expanded="true" signature="8609:8707" ph="SELECT tel_n... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="8883:8939" ph="SELECT * FRO... channel_blocked_view" />
+                <marker date="1517284646802" expanded="true" signature="9296:9394" ph="SELECT tel_n... subscribe_table" />
+                <marker date="1517284646802" expanded="true" signature="9570:9607" ph="SELECT * FRO... channel_subscribes_view" />
+                <marker date="1517284646802" expanded="true" signature="9570:9649" ph="SELECT * FRO... channel_blocked_view" />
+                <marker date="1517284646802" expanded="true" signature="9966:10023" ph="SELECT * FRO... channel_messages_view" />
+                <marker date="1517284646802" expanded="true" signature="10733:10790" ph="SELECT * FRO... channel_messages_view" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initialer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/initialer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>group</find>
+      <find>Group</find>
+      <find>getP</find>
+      <find>rol</find>
+      <find>datetime</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>channel</replace>
+      <replace>Channel</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9580e706-df86-4bc4-b6f0-9e45f99dbada/console.sql" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="C:/ProgramData/Anaconda3/Lib/site.py" />
+        <option value="$PROJECT_DIR$/util.py" />
+        <option value="$PROJECT_DIR$/users.py" />
+        <option value="$PROJECT_DIR$/initialer.py" />
+        <option value="$PROJECT_DIR$/groups.py" />
+        <option value="$PROJECT_DIR$/channels.py" />
+        <option value="dbtable:/30e57063/5038c9d6-3c6b-4011-ad38-adbae0a64a04/project.public.user_table" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2586" />
+    <option name="height" value="1386" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DB-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DB-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="C:\Users\asus-pc\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="initialer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/initialer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="DB-project" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DB-project" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.initialer" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.initialer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae18434d-8b9d-47e3-bd6f-41240e43eb03" name="Default" comment="" />
+      <created>1516978090181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516978090181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="2586" height="1386" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5016353" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.4983647" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29599345" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2951758" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33426183" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5016353" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.4983647" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33426183" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29599345" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2951758" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9580e706-df86-4bc4-b6f0-9e45f99dbada/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="179" column="22" lean-forward="false" selection-start-line="179" selection-start-column="22" selection-end-line="179" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9580e706-df86-4bc4-b6f0-9e45f99dbada/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/40562699-44e3-43c2-b9f7-23b88fb5929c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.channel_profile_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.contacts_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.blocked_contacts_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.chat_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.user_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.message_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/database/test/schema/public/view/chat_view.sql">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.group_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.group_profile_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/test.public.membership_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///30e57063/40562699-44e3-43c2-b9f7-23b88fb5929c/database/test/schema/public/view/group_list_view.sql">
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initialer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="657" column="0" lean-forward="false" selection-start-line="657" selection-start-column="0" selection-end-line="657" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5038c9d6-3c6b-4011-ad38-adbae0a64a04/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/groups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="327" column="0" lean-forward="false" selection-start-line="327" selection-start-column="0" selection-end-line="353" selection-end-column="15" />
+          <folding>
+            <marker date="1517283533862" expanded="true" signature="1779:1829" ph="INSERT INTO group_table... " />
+            <marker date="1517283533862" expanded="true" signature="1779:1845" ph="INSERT INTO group_table... " />
+            <marker date="1517283533862" expanded="true" signature="2081:2129" ph="UPDATE group... " />
+            <marker date="1517283533862" expanded="true" signature="2285:2334" ph="SELECT creat... group_creator_view" />
+            <marker date="1517283533862" expanded="true" signature="2285:2381" ph="SELECT creat... group_creator_view" />
+            <marker date="1517283533862" expanded="true" signature="2485:2508" ph="DELETE FROM " />
+            <marker date="1517283533862" expanded="true" signature="2485:2528" ph="DELETE FROM " />
+            <marker date="1517283533862" expanded="true" signature="2935:3034" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="3178:3277" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="3421:3481" ph="INSERT INTO group_blocked_users_table... " />
+            <marker date="1517283533862" expanded="true" signature="3421:3497" ph="INSERT INTO membership_table... " />
+            <marker date="1517283533862" expanded="true" signature="4137:4236" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="4380:4455" ph="DELETE FROM " />
+            <marker date="1517283533862" expanded="true" signature="5055:5104" ph="SELECT creat... group_creator_view" />
+            <marker date="1517283533862" expanded="true" signature="5055:5150" ph="SELECT creat... group_creator_view" />
+            <marker date="1517283533862" expanded="true" signature="5288:5354" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="5525:5602" ph="DELETE FROM " />
+            <marker date="1517283533862" expanded="true" signature="6244:6339" ph="SELECT creat... group_creator_view" />
+            <marker date="1517283533862" expanded="true" signature="6477:6576" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="6753:6831" ph="UPDATE membe... " />
+            <marker date="1517283533862" expanded="true" signature="7350:7449" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="7559:7606" ph="SELECT * FRO... media_table" />
+            <marker date="1517283533862" expanded="true" signature="7707:7765" ph="INSERT INTO media_table... " />
+            <marker date="1517283533862" expanded="true" signature="7891:7939" ph="INSERT INTO image_table... " />
+            <marker date="1517283533862" expanded="true" signature="8050:8121" ph="INSERT INTO group_profile_table... " />
+            <marker date="1517283533862" expanded="true" signature="8505:8604" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="8714:8761" ph="SELECT * FRO... media_table" />
+            <marker date="1517283533862" expanded="true" signature="8943:9013" ph="DELETE FROM " />
+            <marker date="1517283533862" expanded="true" signature="8954:9013" ph="INSERT INTO group_profile_table... " />
+            <marker date="1517283533862" expanded="true" signature="9459:9525" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="9738:9807" ph="SELECT MAX(m... message_table" />
+            <marker date="1517283533862" expanded="true" signature="10106:10153" ph="SELECT * FRO... media_table" />
+            <marker date="1517283533862" expanded="true" signature="10247:10306" ph="INSERT INTO media_table... " />
+            <marker date="1517283533862" expanded="true" signature="10463:10573" ph="INSERT INTO message_table... " />
+            <marker date="1517283533862" expanded="true" signature="10675:10687" ph="INSERT INTO project.... " />
+            <marker date="1517283533862" expanded="true" signature="10675:10782" ph="INSERT INTO grr... " />
+            <marker date="1517283533862" expanded="true" signature="11121:11187" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="11370:11443" ph="SELECT * FRO... message_table" />
+            <marker date="1517283533862" expanded="true" signature="11656:11763" ph="INSERT INTO group_sends_table... " />
+            <marker date="1517283533862" expanded="true" signature="12331:12397" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="12580:12693" ph="INSERT INTO group_seen_table... " />
+            <marker date="1517283533862" expanded="true" signature="12580:12725" ph="INSERT INTO group_seen_table... " />
+            <marker date="1517283533862" expanded="true" signature="13008:13074" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="13255:13287" ph="SELECT * FRO... group_profile_view" />
+            <marker date="1517283533862" expanded="true" signature="13255:13307" ph="SELECT * FRO... group_profile_view" />
+            <marker date="1517283533862" expanded="true" signature="13655:13721" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="13902:13954" ph="SELECT * FRO... group_members_view" />
+            <marker date="1517283533862" expanded="true" signature="14309:14375" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="14556:14608" ph="SELECT * FRO... group_blocked_view" />
+            <marker date="1517283533862" expanded="true" signature="14961:15027" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="15208:15240" ph="SELECT * FRO... group_members_view" />
+            <marker date="1517283533862" expanded="true" signature="15208:15280" ph="SELECT * FRO... group_blocked_view" />
+            <marker date="1517283533862" expanded="true" signature="15631:15697" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="15878:15931" ph="SELECT * FRO... group_messages_view" />
+            <marker date="1517283533862" expanded="true" signature="16673:16739" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="16920:16968" ph="SELECT * FRO... group_pin_view" />
+            <marker date="1517283533862" expanded="true" signature="17317:17383" ph="SELECT * FRO... membership_table" />
+            <marker date="1517283533862" expanded="true" signature="17564:17616" ph="SELECT * FRO... group_creator_view" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/channels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8745">
+          <caret line="265" column="15" lean-forward="false" selection-start-line="265" selection-start-column="15" selection-end-line="265" selection-end-column="15" />
+          <folding>
+            <marker date="1517284646802" expanded="true" signature="1772:1836" ph="INSERT INTO channel_table... " />
+            <marker date="1517284646802" expanded="true" signature="1772:1856" ph="INSERT INTO channel_table... " />
+            <marker date="1517284646802" expanded="true" signature="2188:2262" ph="SELECT * FRO... channel_creator_view" />
+            <marker date="1517284646802" expanded="true" signature="2440:2465" ph="DELETE FROM " />
+            <marker date="1517284646802" expanded="true" signature="2440:2487" ph="SELECT * FRO... channel_subscribes_view" />
+            <marker date="1517284646802" expanded="true" signature="2729:2827" ph="SELECT tel_n... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="3003:3067" ph="INSERT INTO channel_blocked_users_table... " />
+            <marker date="1517284646802" expanded="true" signature="3003:3083" ph="SELECT * FRO... channel_subscribes_view" />
+            <marker date="1517284646802" expanded="true" signature="3336:3434" ph="SELECT tel_n... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="3610:3649" ph="DELETE FROM " />
+            <marker date="1517284646802" expanded="true" signature="3610:3691" ph="INSERT INTO channel_blocked_users_table... " />
+            <marker date="1517284646802" expanded="true" signature="4499:4584" ph="SELECT * FRO... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="4792:4861" ph="SELECT MAX(m... message_table" />
+            <marker date="1517284646802" expanded="true" signature="5160:5207" ph="SELECT * FRO... media_table" />
+            <marker date="1517284646802" expanded="true" signature="5301:5360" ph="INSERT INTO media_table... " />
+            <marker date="1517284646802" expanded="true" signature="5517:5627" ph="INSERT INTO message_table... " />
+            <marker date="1517284646802" expanded="true" signature="5729:5840" ph="INSERT INTO channel_sends_table... " />
+            <marker date="1517284646802" expanded="true" signature="6185:6199" ph="SELECT * FRO... membership_table" />
+            <marker date="1517284646802" expanded="true" signature="6185:6270" ph="SELECT * FRO... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="6455:6528" ph="SELECT * FRO... message_table" />
+            <marker date="1517284646802" expanded="true" signature="6741:6852" ph="INSERT INTO channel_sends_table... " />
+            <marker date="1517284646802" expanded="true" signature="7510:7566" ph="SELECT * FRO... channel_profile_view" />
+            <marker date="1517284646802" expanded="true" signature="7917:7997" ph="SELECT * FRO... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="7917:8015" ph="SELECT tel_n... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="8191:8250" ph="SELECT * FRO... channel_subscribes_view" />
+            <marker date="1517284646802" expanded="true" signature="8609:8707" ph="SELECT tel_n... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="8883:8939" ph="SELECT * FRO... channel_blocked_view" />
+            <marker date="1517284646802" expanded="true" signature="9296:9394" ph="SELECT tel_n... subscribe_table" />
+            <marker date="1517284646802" expanded="true" signature="9570:9607" ph="SELECT * FRO... channel_subscribes_view" />
+            <marker date="1517284646802" expanded="true" signature="9570:9649" ph="SELECT * FRO... channel_blocked_view" />
+            <marker date="1517284646802" expanded="true" signature="9966:10023" ph="SELECT * FRO... channel_messages_view" />
+            <marker date="1517284646802" expanded="true" signature="10733:10790" ph="SELECT * FRO... channel_messages_view" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="72" column="19" lean-forward="false" selection-start-line="72" selection-start-column="19" selection-end-line="72" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1517278776847" expanded="true" signature="2075:2105" ph="INSERT INTO USERTABLE... " />
+            <marker date="1517278776847" expanded="true" signature="2075:2108" ph="INSERT INTO user_table... " />
+            <marker date="1517278776847" expanded="true" signature="2075:2122" ph="INSERT INTO USERTABLE... " />
+            <marker date="1517278776847" expanded="true" signature="2447:2532" ph="INSERT INTO user_table... " />
+            <marker date="1517278776847" expanded="true" signature="2975:3029" ph="UPDATE user_... " />
+            <marker date="1517278776847" expanded="true" signature="3117:3166" ph="UPDATE user_... " />
+            <marker date="1517278776847" expanded="true" signature="3262:3316" ph="UPDATE user_... " />
+            <marker date="1517278776847" expanded="true" signature="3681:3735" ph="UPDATE user_... " />
+            <marker date="1517278776847" expanded="true" signature="3949:3993" ph="SELECT * FRO... user_table" />
+            <marker date="1517278776847" expanded="true" signature="3962:3974" ph="INSERT INTO contacts_table... " />
+            <marker date="1517278776847" expanded="true" signature="4164:4210" ph="INSERT INTO contacts_table... " />
+            <marker date="1517278776847" expanded="true" signature="4450:4494" ph="SELECT * FRO... user_table" />
+            <marker date="1517278776847" expanded="true" signature="4665:4715" ph="INSERT INTO blocked_contacts_table... " />
+            <marker date="1517278776847" expanded="true" signature="5099:5159" ph="SELECT MAX(m... message_table" />
+            <marker date="1517278776847" expanded="true" signature="5099:5168" ph="SELECT MAX(m... message_table" />
+            <marker date="1517278776847" expanded="true" signature="5467:5514" ph="SELECT * FRO... media_table" />
+            <marker date="1517278776847" expanded="true" signature="5608:5667" ph="INSERT INTO media_table... " />
+            <marker date="1517278776847" expanded="true" signature="5824:5934" ph="INSERT INTO message_table... " />
+            <marker date="1517278776847" expanded="true" signature="6036:6164" ph="INSERT INTO chat_table... " />
+            <marker date="1517278776847" expanded="true" signature="6499:6572" ph="SELECT * FRO... message_table" />
+            <marker date="1517278776847" expanded="true" signature="6785:6913" ph="INSERT INTO chat_table... " />
+            <marker date="1517278776847" expanded="true" signature="7241:7285" ph="INSERT INTO membership_table... " />
+            <marker date="1517278776847" expanded="true" signature="7381:7480" ph="SELECT * FRO... membership_table" />
+            <marker date="1517278776847" expanded="true" signature="7599:7650" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="7599:7666" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="8052:8095" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="8193:8276" ph="SELECT * FRO... subscribe_table" />
+            <marker date="1517278776847" expanded="true" signature="8397:8465" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="8778:8822" ph="SELECT * FRO... user_table" />
+            <marker date="1517278776847" expanded="true" signature="8993:9065" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="9309:9353" ph="SELECT * FRO... user_table" />
+            <marker date="1517278776847" expanded="true" signature="9524:9604" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="9927:10072" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="9927:10113" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="9927:10132" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="9927:10156" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="10455:10499" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="10466:10499" ph="INSERT INTO membership_table... " />
+            <marker date="1517278776847" expanded="true" signature="10595:10694" ph="SELECT * FRO... membership_table" />
+            <marker date="1517278776847" expanded="true" signature="10813:10880" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="10819:10880" ph="INSERT INTO membership_table... " />
+            <marker date="1517278776847" expanded="true" signature="11265:11308" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="11271:11308" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="11406:11489" ph="SELECT * FRO... subscribe_table" />
+            <marker date="1517278776847" expanded="true" signature="11610:11678" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="11621:11678" ph="INSERT INTO subscribe_table... " />
+            <marker date="1517278776847" expanded="true" signature="11986:12033" ph="SELECT * FRO... media_table" />
+            <marker date="1517278776847" expanded="true" signature="12109:12167" ph="INSERT INTO media_table... " />
+            <marker date="1517278776847" expanded="true" signature="12257:12305" ph="INSERT INTO image_table... " />
+            <marker date="1517278776847" expanded="true" signature="12412:12484" ph="INSERT INTO user_profile_table... " />
+            <marker date="1517278776847" expanded="true" signature="12790:12873" ph="DELETE FROM " />
+            <marker date="1517278776847" expanded="true" signature="13150:13201" ph="SELECT * FRO... user_profile_view" />
+            <marker date="1517278776847" expanded="true" signature="13462:13514" ph="SELECT * FRO... user_profile_table" />
+            <marker date="1517278776847" expanded="true" signature="13831:13910" ph="SELECT conta... contacts_table" />
+            <marker date="1517278776847" expanded="true" signature="14295:14368" ph="SELECT conta... blocked_contacts_table" />
+            <marker date="1517278776847" expanded="true" signature="14792:14869" ph="SELECT * FRO... chat_view" />
+            <marker date="1517278776847" expanded="true" signature="14999:15076" ph="SELECT * FRO... chat_view" />
+            <marker date="1517278776847" expanded="true" signature="15526:15595" ph="SELECT recei... chat_table" />
+            <marker date="1517278776847" expanded="true" signature="15698:15767" ph="SELECT sende... chat_table" />
+            <marker date="1517278776847" expanded="true" signature="16075:16104" ph="SELECT * FRO... group_list_view" />
+            <marker date="1517278776847" expanded="true" signature="16075:16124" ph="SELECT * FRO... group_list_view" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/5038c9d6-3c6b-4011-ad38-adbae0a64a04/project.public.user_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/30e57063/5038c9d6-3c6b-4011-ad38-adbae0a64a04/project.public.group_table">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1517291222846" expanded="true" signature="1282:1328" ph="SELECT id, n... COMPANY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
